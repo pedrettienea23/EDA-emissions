@@ -2,7 +2,6 @@
 This project analyzes global emissions data and sources.
 
 Key Focus:
-
 Understanding the rise of global emissions
 Identifying major MtCO2 equivalent emitting categegories and countries
 
